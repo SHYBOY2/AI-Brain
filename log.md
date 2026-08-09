@@ -169,3 +169,7 @@
 - 2026-08-09 21:12 UTC | Groq-processed `raw/2026-08-09-210637-yt-T88t25Lv82c.md` → `wiki/2026-08-09-210637-yt-T88t25Lv82c.md`
 
 - 2026-08-09 21:12 UTC | Groq-processed `raw/2026-08-09-211042-yt-KJ2Lvi9kG2Q.md` → `wiki/2026-08-09-211042-yt-KJ2Lvi9kG2Q.md`
+
+- 2026-08-09 21:14 UTC | Groq-processed `raw/2026-08-09-211006-yt-7-nak4BPZxg.md` → `wiki/2026-08-09-211006-yt-7-nak4BPZxg.md`
+
+- 2026-08-09 21:16 UTC | YouTube captured: `raw/2026-08-09-211649-yt-yke4fLQUsh4.md` (https://youtu.be/yke4fLQUsh4?si=QTww-8QS-V4d5Lpj)
