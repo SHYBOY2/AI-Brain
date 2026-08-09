@@ -185,3 +185,53 @@
 - 2026-08-09 21:45 UTC | YouTube captured: `raw/2026-08-09-How-To-ABSORB-TEXTBOOKS-Like-A-Sponge.md` — "How To ABSORB TEXTBOOKS Like A Sponge" (Matt DiMaio)
 
 - 2026-08-09 21:45 UTC | Article captured: `raw/2026-08-09-214552-web.md` (https://youtube.com/shorts/VsPOQd1eSXM?si=1OQpekk6ScNRopEu)
+
+- 2026-08-09 21:46 UTC | YouTube captured: `raw/2026-08-09-This-Weird-Habit-Will-make-you-Unbreakably-Discipl.md` — "This Weird Habit Will make you Unbreakably Disciplined" (Not More Self-Improvement)
+
+- 2026-08-09 22:11 UTC | Note captured: `raw/2026-08-09-221135-note.md`
+
+- 2026-08-09 22:12 UTC | Note captured: `raw/2026-08-09-221211-note.md`
+
+- 2026-08-09 22:12 UTC | Note captured: `raw/2026-08-09-221240-note.md`
+
+- 2026-08-09 22:33 UTC | !process via Discord — exit 0 — moved 0 files
+
+- 2026-08-09 22:36 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:36 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:36 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:36 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:37 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:38 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:38 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:38 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:38 UTC | !process via Discord — exit 0 — moved 19 files
