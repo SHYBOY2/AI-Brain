@@ -27,14 +27,10 @@
             "id": "72236a053ad957f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/Cross-Device Agentic Workflow.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cross-Device Agentic Workflow"
+              "title": "New tab"
             }
           }
         ]
@@ -207,8 +203,18 @@
   },
   "active": "72236a053ad957f5",
   "lastOpenFiles": [
-    "raw/‎Google Gemini 1.md",
+    "raw/‎Google Gemini 2.md",
+    "raw/processed/Cross-Device Agentic Workflow.md",
+    "raw/processed/‎Google Gemini 2.md",
+    "raw/processed/‎Google Gemini 1.md",
+    "raw/processed/‎Google Gemini.md",
+    "wiki/GitHub-Actions-Automation.md",
+    "wiki/Discord-Bot-Obsidian-Integration.md",
+    "wiki/Obsidian-AppImage-Linux-Fix.md",
+    "wiki/Cloud-Second-Brain-Architecture.md",
+    "wiki/Cloud-Second-Brain-Pipeline-Setup.md",
     "raw/Cross-Device Agentic Workflow.md",
+    "raw/‎Google Gemini 1.md",
     "raw/‎Google Gemini.md",
     "log.md",
     "agents.md",
@@ -223,16 +229,6 @@
     "wiki/Justin-Sung.md",
     "wiki/Second-Brain-Architecture.md",
     "wiki/Primary-Sources.md",
-    "wiki/Attention-and-Digital-Distraction.md",
-    "wiki/Spacing-Effect.md",
-    "wiki/Self-Education.md",
-    "wiki/Deep-Work.md",
-    "wiki/Mind-Mapping.md",
-    "wiki/Feynman-Technique.md",
-    "wiki/Active-Recall.md",
-    "wiki/Schema-Building.md",
-    "wiki/Learning-Principles.md",
-    "wiki/LLM-Wiki-Karpathy.md",
     "CRM",
     "journal",
     "wiki",

@@ -2,10 +2,12 @@
 title: "Second Brain Architecture"
 tags: [concept, knowledge-management, llm-wiki, obsidian, second-brain]
 created: 2026-08-09
-updated: 2026-08-09
-source_count: 1
+updated: 2026-08-10
+source_count: 3
 sources:
   - "[[wiki/LLM-Wiki-Karpathy]]"
+  - "[[wiki/Cloud-Second-Brain-Pipeline-Setup]]"
+  - "[[wiki/Cloud-Second-Brain-Architecture]]"
 ---
 
 # Second Brain Architecture
@@ -45,6 +47,17 @@ Beyond Karpathy's base pattern, this vault adds:
 - **YouTube channel extraction** — Channel name added to frontmatter on ingest
 - **Processed folder** (`raw/processed/`) — Source files moved here post-ingestion
 
+## Cloud Extension (Hybrid Pipeline)
+
+This vault has been extended with a cloud/local hybrid capture pipeline:
+- **Discord** as a universal multi-device input interface
+- **GitHub Actions** (or local cron) as the scheduled processing engine
+- **Groq Whisper** for voice memo transcription
+- **Antigravity** (local) as the LLM synthesis engine
+- **Obsidian Git** for cross-device vault synchronization
+
+See [[wiki/Cloud-Second-Brain-Architecture]] and [[wiki/Cloud-Second-Brain-Pipeline-Setup]] for full details.
+
 ## Tooling Notes
 
 - **Obsidian** — The reading interface. Graph view reveals wiki shape and orphans.
@@ -57,3 +70,8 @@ Beyond Karpathy's base pattern, this vault adds:
 - [[wiki/LLM-Wiki-Karpathy]]
 - [[wiki/Knowledge-Management]]
 - [[wiki/Andrej-Karpathy]]
+- [[wiki/Cloud-Second-Brain-Architecture]]
+- [[wiki/Cloud-Second-Brain-Pipeline-Setup]]
+- [[wiki/Discord-Bot-Obsidian-Integration]]
+- [[wiki/GitHub-Actions-Automation]]
+- [[wiki/Obsidian-AppImage-Linux-Fix]]
