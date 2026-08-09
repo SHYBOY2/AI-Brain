@@ -6,27 +6,9 @@
       {
         "id": "6fc487fe24f43f44",
         "type": "tabs",
-        "dimension": 15.92356687898089,
         "children": [
           {
             "id": "c5c85c527bd3282c",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "d45e87ed9d756de4",
-        "type": "tabs",
-        "dimension": 84.07643312101911,
-        "children": [
-          {
-            "id": "72236a053ad957f5",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -213,34 +195,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "72236a053ad957f5",
+  "active": "c5c85c527bd3282c",
   "lastOpenFiles": [
+    "raw/processed/2026-08-09-How-to-Start-Options-Trading-in-2026.md",
+    "wiki/How-to-Start-Options-Trading-in-2026.md",
+    "raw/processed/2026-08-09-What-is-Stock-Market-How-Does-It-Work-Share-Market.md",
+    "wiki/What-is-Stock-Market-How-Does-It-Work-Share-Market.md",
+    "raw/processed/2026-08-09-224729-web.md",
+    "wiki/224729-web.md",
+    "raw/processed/2026-08-09-Trading-for-Beginners-2026-Complete-Step-by-Step-R.md",
+    "wiki/Trading-for-Beginners-2026-Complete-Step-by-Step-R.md",
+    "raw/processed/2026-08-09-Launching-the-FREE-Stock-Market-Course-India-Neede.md",
+    "wiki/Launching-the-FREE-Stock-Market-Course-India-Neede.md",
+    "raw/processed/2026-08-09-Forex-Trading-for-Beginners-LEGALLY-How-to-Start-F.md",
+    "wiki/Forex-Trading-for-Beginners-LEGALLY-How-to-Start-F.md",
+    "raw/processed/2026-08-09-Basic-to-Advanced-Stock-Market-Trading-Course.md",
+    "wiki/Basic-to-Advanced-Stock-Market-Trading-Course.md",
+    "raw/2026-08-09-What-is-Stock-Market-How-Does-It-Work-Share-Market.md",
+    "raw/2026-08-09-224729-web.md",
+    "raw/2026-08-09-Launching-the-FREE-Stock-Market-Course-India-Neede.md",
+    "raw/2026-08-09-Basic-to-Advanced-Stock-Market-Trading-Course.md",
+    "raw/2026-08-09-How-to-Start-Options-Trading-in-2026.md",
+    "raw/2026-08-09-Forex-Trading-for-Beginners-LEGALLY-How-to-Start-F.md",
+    "raw/2026-08-09-Trading-for-Beginners-2026-Complete-Step-by-Step-R.md",
+    "agents.md",
+    "wiki/A-CS-Professor-on-Why-Slow-Learning-Wins-in-the-AI.md",
     "raw/processed/2026-08-09-211056-yt-uiNB-6SuqVA.md",
     "wiki/211056-yt-uiNB-6SuqVA.md",
     "raw/processed/2026-08-09-This-Weird-Habit-Will-make-you-Unbreakably-Discipl.md",
-    "wiki/This-Weird-Habit-Will-make-you-Unbreakably-Discipl.md",
-    "raw/processed/2026-08-09-Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St.md",
-    "wiki/Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St.md",
-    "raw/processed/2026-08-09-214552-web.md",
-    "wiki/214552-web.md",
-    "raw/processed/2026-08-09-210759-yt-Z26UeX13Hwk.md",
-    "wiki/210759-yt-Z26UeX13Hwk.md",
-    "raw/processed/2026-08-09-A-CS-Professor-on-Why-Slow-Learning-Wins-in-the-AI.md",
-    "wiki/A-CS-Professor-on-Why-Slow-Learning-Wins-in-the-AI.md",
-    "raw/processed/2026-08-09-210654-yt-C5OJJD3Eytk.md",
-    "wiki/210654-yt-C5OJJD3Eytk.md",
-    "raw/processed/2026-08-09-210829-yt-GDMmxmn-p8I.md",
-    "wiki/210829-yt-GDMmxmn-p8I.md",
-    "raw/processed/2026-08-09-210747-yt-0CdE6oTkbj4.md",
-    "wiki/210747-yt-0CdE6oTkbj4.md",
-    "raw/processed/2026-08-09-210731-yt-dap2O7RdLAI.md",
-    "wiki/210731-yt-dap2O7RdLAI.md",
-    "raw/processed/2026-08-09-210617-yt-dbDpegaaxvo.md",
-    "wiki/210617-yt-dbDpegaaxvo.md",
-    "raw/processed/2026-08-09-211109-yt-oBUhdwTt7ow.md",
-    "wiki/211109-yt-oBUhdwTt7ow.md",
-    "raw/processed/2026-08-09-210925-yt-ffWSYAiHWJk.md",
-    "wiki/210925-yt-ffWSYAiHWJk.md",
     "processed",
     "CRM",
     "journal",

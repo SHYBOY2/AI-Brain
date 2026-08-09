@@ -235,3 +235,33 @@
 - 2026-08-09 22:38 UTC | Groq API success using key 1 (gsk_...vQmi)
 
 - 2026-08-09 22:38 UTC | !process via Discord — exit 0 — moved 19 files
+
+- 2026-08-09 22:46 UTC | YouTube captured: `raw/2026-08-09-Trading-for-Beginners-2026-Complete-Step-by-Step-R.md` — "Trading for Beginners 2026 || Complete Step-by-Step Roadmap" (Booming Bulls)
+
+- 2026-08-09 22:46 UTC | YouTube captured: `raw/2026-08-09-Forex-Trading-for-Beginners-LEGALLY-How-to-Start-F.md` — "Forex Trading for Beginners (LEGALLY) | How to Start Forex Trading in 2026 | How To Trade Forex" (Neeraj joshi)
+
+- 2026-08-09 22:46 UTC | YouTube captured: `raw/2026-08-09-How-to-Start-Options-Trading-in-2026.md` — "How to Start Options Trading in 2026" (Booming Bulls)
+
+- 2026-08-09 22:47 UTC | YouTube captured: `raw/2026-08-09-Basic-to-Advanced-Stock-Market-Trading-Course.md` — "Basic to Advanced Stock Market Trading Course" (Booming Bulls)
+
+- 2026-08-09 22:47 UTC | YouTube captured: `raw/2026-08-09-Launching-the-FREE-Stock-Market-Course-India-Neede.md` — "Launching the FREE Stock Market Course India Needed | Stock Market A to Z" (marketfeed)
+
+- 2026-08-09 22:47 UTC | Article captured: `raw/2026-08-09-224729-web.md` (https://youtube.com/playlist?list=PLKLPWIpGjI0OI7w6KXpor4TAni5B2tL6a&si=154MkTm2hTFeGhcy)
+
+- 2026-08-09 22:47 UTC | YouTube captured: `raw/2026-08-09-What-is-Stock-Market-How-Does-It-Work-Share-Market.md` — "What is Stock Market & How Does It Work? Share Market Basics Explanation for Beginners | E3" (marketfeed)
+
+- 2026-08-09 22:48 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:48 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:48 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:48 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-09 22:48 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:48 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-09 22:48 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-09 22:48 UTC | !process via Discord — exit 0 — moved 7 files
