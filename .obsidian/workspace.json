@@ -29,14 +29,10 @@
             "id": "72236a053ad957f5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "raw/2026-08-09-Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-09-Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -187,13 +183,23 @@
               "icon": "lucide-list",
               "title": "Outline"
             }
+          },
+          {
+            "id": "2d51f7d338fba9d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +215,11 @@
   },
   "active": "72236a053ad957f5",
   "lastOpenFiles": [
+    "raw/2026-08-09-214552-web.md",
+    "raw/2026-08-09-How-To-ABSORB-TEXTBOOKS-Like-A-Sponge.md",
+    "raw/2026-08-09-A-CS-Professor-on-Why-Slow-Learning-Wins-in-the-AI.md",
+    "raw/2026-08-09-Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St.md",
+    "raw/2026-08-09-214009-note.md",
     "wiki/2026-08-09-204807-yt-dSUfYAuc11E.md",
     "raw/2026-08-09-211649-yt-yke4fLQUsh4.md",
     "raw/2026-08-09-211023-yt-31bZOIk53_I.md",
@@ -216,7 +227,6 @@
     "raw/2026-08-09-210713-yt-SyzI0DpBBQI.md",
     "raw/2026-08-09-210654-yt-C5OJJD3Eytk.md",
     "raw/2026-08-09-210617-yt-dbDpegaaxvo.md",
-    "raw/2026-08-09-Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St.md",
     "raw/processed/2026-08-09-211006-yt-7-nak4BPZxg.md",
     "wiki/2026-08-09-211006-yt-7-nak4BPZxg.md",
     "raw/processed/2026-08-09-211042-yt-KJ2Lvi9kG2Q.md",
@@ -231,10 +241,6 @@
     "raw/2026-08-09-211006-yt-7-nak4BPZxg.md",
     "raw/2026-08-09-210946-yt-XEmIlyJmVQo.md",
     "raw/2026-08-09-210925-yt-ffWSYAiHWJk.md",
-    "raw/2026-08-09-210829-yt-GDMmxmn-p8I.md",
-    "raw/2026-08-09-210814-yt--d3icGN5xAM.md",
-    "raw/2026-08-09-210759-yt-Z26UeX13Hwk.md",
-    "raw/2026-08-09-210747-yt-0CdE6oTkbj4.md",
     "processed",
     "CRM",
     "journal",

@@ -175,3 +175,13 @@
 - 2026-08-09 21:16 UTC | YouTube captured: `raw/2026-08-09-211649-yt-yke4fLQUsh4.md` (https://youtu.be/yke4fLQUsh4?si=QTww-8QS-V4d5Lpj)
 
 - 2026-08-09 21:31 UTC | YouTube captured: `raw/2026-08-09-Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St.md` — "Build An AI Second Brain Knowledge Base (Step-By-Step)" (Matt Wolfe)
+
+- 2026-08-09 21:40 UTC | Note captured: `raw/2026-08-09-214009-note.md`
+
+- 2026-08-09 21:40 UTC | YouTube captured: `raw/2026-08-09-A-CS-Professor-on-Why-Slow-Learning-Wins-in-the-AI.md` — "A CS Professor on Why Slow Learning Wins in the AI Era | CU Boulder, Tom Yeh" (EO)
+
+- 2026-08-09 21:41 UTC | !process via Discord — exit 0 — moved 0 files
+
+- 2026-08-09 21:45 UTC | YouTube captured: `raw/2026-08-09-How-To-ABSORB-TEXTBOOKS-Like-A-Sponge.md` — "How To ABSORB TEXTBOOKS Like A Sponge" (Matt DiMaio)
+
+- 2026-08-09 21:45 UTC | Article captured: `raw/2026-08-09-214552-web.md` (https://youtube.com/shorts/VsPOQd1eSXM?si=1OQpekk6ScNRopEu)
