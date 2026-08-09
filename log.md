@@ -173,3 +173,5 @@
 - 2026-08-09 21:14 UTC | Groq-processed `raw/2026-08-09-211006-yt-7-nak4BPZxg.md` → `wiki/2026-08-09-211006-yt-7-nak4BPZxg.md`
 
 - 2026-08-09 21:16 UTC | YouTube captured: `raw/2026-08-09-211649-yt-yke4fLQUsh4.md` (https://youtu.be/yke4fLQUsh4?si=QTww-8QS-V4d5Lpj)
+
+- 2026-08-09 21:31 UTC | YouTube captured: `raw/2026-08-09-Build-An-AI-Second-Brain-Knowledge-Base-Step-By-St.md` — "Build An AI Second Brain Knowledge Base (Step-By-Step)" (Matt Wolfe)
