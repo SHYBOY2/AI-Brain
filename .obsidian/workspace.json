@@ -29,12 +29,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "raw/‎Google Gemini 1.md",
+                "file": "raw/Cross-Device Agentic Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "‎Google Gemini 1"
+              "title": "Cross-Device Agentic Workflow"
             }
           }
         ]
@@ -207,8 +207,9 @@
   },
   "active": "72236a053ad957f5",
   "lastOpenFiles": [
-    "raw/‎Google Gemini.md",
     "raw/‎Google Gemini 1.md",
+    "raw/Cross-Device Agentic Workflow.md",
+    "raw/‎Google Gemini.md",
     "log.md",
     "agents.md",
     "raw/The Art of Becoming Dangerously Self-Educated.md",
@@ -232,7 +233,6 @@
     "wiki/Schema-Building.md",
     "wiki/Learning-Principles.md",
     "wiki/LLM-Wiki-Karpathy.md",
-    "wiki/Download-for-Linux-Antigravity.md",
     "CRM",
     "journal",
     "wiki",
