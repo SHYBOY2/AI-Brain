@@ -323,3 +323,155 @@
 - 2026-08-10 00:02 UTC | Groq API success using key 2 (gsk_...hFdm)
 
 - 2026-08-10 00:02 UTC | Query via Discord: `tell me about cheap dagestan wrestling` — answered
+
+- 2026-08-10 00:14 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 00:14 UTC | Query via Discord: `tell me about cheap dagestan wrestling` — answered
+
+- 2026-08-10 00:34 UTC | Article captured: `raw/2026-08-10-003450-web.md` (https://youtube.com/shorts/hhKZXLb1Uo8?si=loCuSr1tgAG-flRw)
+
+- 2026-08-10 00:35 UTC | Article captured: `raw/2026-08-10-003540-web.md` (https://youtube.com/shorts/Guc0o_10KYY?si=9w_0K9RciCSFqloh)
+
+- 2026-08-10 00:36 UTC | Article captured: `raw/2026-08-10-003654-web.md` (https://youtube.com/shorts/nS6T10xMmb0?si=KxAs9hOQ7yCJj3Au)
+
+- 2026-08-10 00:37 UTC | YouTube captured: `raw/2026-08-10-Copy-This-Timetable-Strategy-It-Got-Me-Addicted-To.md` — "Copy This Timetable Strategy, It Got Me Addicted To Studying| Huberman System" (Rahuram Chanthrakumar)
+
+- 2026-08-10 00:38 UTC | YouTube captured: `raw/2026-08-10-4-Study-TECHNIQUES-That-Harvard-Students-Use-Study.md` — "4 Study TECHNIQUES That Harvard Students Use. | Study Tips." (Empower )
+
+- 2026-08-10 00:38 UTC | YouTube captured: `raw/2026-08-10-Getting-ADDICTED-to-STUDYING-is-Easy-Actually.md` — "Getting ADDICTED to STUDYING is Easy, Actually" (Blunt Motivation)
+
+- 2026-08-10 00:38 UTC | YouTube captured: `raw/2026-08-10-How-I-Study-SMARTER-Not-HARDER-10-Science-Based-Ti.md` — "How I Study SMARTER, Not HARDER (10 Science-Based Tips)" (RESPIRE)
+
+- 2026-08-10 00:39 UTC | YouTube captured: `raw/2026-08-10-Give-me-17-minutes-and-Ill-ELIMINATE-your-self-sab.md` — "Give me 17 minutes and I'll ELIMINATE your self-sabotage forever" (Clark Kegley)
+
+- 2026-08-10 00:39 UTC | YouTube captured: `raw/2026-08-10-Pattern-Recognition-Is-the-Cheat-Code-to-Becoming-.md` — "Pattern Recognition Is the Cheat Code to Becoming Good at Any Subject" (Dark needle)
+
+- 2026-08-10 00:40 UTC | Article captured: `raw/2026-08-10-004023-web.md` (https://youtube.com/shorts/xoxM8Tt8rbE?si=VGqg89euRzyaMwXn)
+
+- 2026-08-10 00:40 UTC | YouTube captured: `raw/2026-08-10-I-Investigated-Unseen-Part-of-Our-Brain.md` — "I Investigated Unseen Part of Our Brain!" (Arvind Kalia)
+
+- 2026-08-10 00:41 UTC | YouTube captured: `raw/2026-08-10-How-I-Effectively-Plan-My-Days-Weeks-As-A-Business.md` — "How I Effectively Plan My Days & Weeks As A Business Owner" (Ross Harkness)
+
+- 2026-08-10 00:41 UTC | YouTube captured: `raw/2026-08-10-I-Made-a-Discord-Server-in-1-Minute-10-Minutes-1-H.md` — "I Made a Discord Server in 1 Minute, 10 Minutes & 1 Hour" (Aeno)
+
+- 2026-08-10 00:42 UTC | YouTube captured: `raw/2026-08-10-How-to-Setup-a-Community-Discord-Server-In-2024-FR.md` — "How to Setup a Community Discord Server In 2024 (FREE TEMPLATE)" (DesignerJenil)
+
+- 2026-08-10 00:42 UTC | YouTube captured: `raw/2026-08-10-Create-Any-Discord-Bot-With-AI-CraftCord-AI-Full-T.md` — "🚀 Create Any Discord Bot With AI | CraftCord AI Full Tutorial" (CraftCord)
+
+- 2026-08-10 00:43 UTC | YouTube captured: `raw/2026-08-10-How-to-Make-Anki-Flashcards-10x-Faster-with-AI-for.md` — "How to Make Anki Flashcards 10x Faster with AI (for free!)" (Ray Amjad)
+
+- 2026-08-10 00:43 UTC | YouTube captured: `raw/2026-08-10-A-Practical-Guide-To-Becoming-An-AI-Engineer-2026.md` — "A Practical Guide To Becoming An AI Engineer (2026)" (CodeHead)
+
+- 2026-08-10 00:43 UTC | YouTube captured: `raw/2026-08-10-How-to-Type-3x-Faster-in-7-Days-from-a-Med-Student.md` — "How to Type 3x Faster in 7 Days (from a Med Student)" (Dr Salim Ahmed)
+
+- 2026-08-10 00:44 UTC | YouTube captured: `raw/2026-08-10-How-Hackers-Find-Anyones-Info-From-Just-Their-Phon.md` — "How Hackers Find Anyone's Info From Just Their Phone Number..." (whoamitang)
+
+- 2026-08-10 00:44 UTC | YouTube captured: `raw/2026-08-10-How-to-Use-Anki-in-Nursing-School-and-why-it-beats.md` — "How to Use Anki in Nursing School (and why it beats Quizlet)" (RN Academy)
+
+- 2026-08-10 00:46 UTC | Article captured: `raw/2026-08-10-004611-web.md` (https://youtube.com/shorts/p21jKy_5cNo?si=kCMoOBMUVDMcKOUY)
+
+- 2026-08-10 00:46 UTC | Article captured: `raw/2026-08-10-004634-web.md` (https://youtube.com/shorts/ePdywRWrrtM?si=6dZXyEN3X3NuW_CC)
+
+- 2026-08-10 00:46 UTC | Article captured: `raw/2026-08-10-004659-web.md` (https://youtube.com/shorts/VgzNS6-vrkc?si=a_5TaBilxPVL67NN)
+
+- 2026-08-10 00:48 UTC | Article captured: `raw/2026-08-10-004814-web.md` (https://youtube.com/shorts/cxj0kwD1Sjc?si=0LAE7Be1BdUtZWTm)
+
+- 2026-08-10 00:49 UTC | Article captured: `raw/2026-08-10-004919-web.md` (https://youtube.com/shorts/WrFKypX9WZE?si=hpDV0qVce4CDwNgo)
+
+- 2026-08-10 01:03 UTC | YouTube captured: `raw/2026-08-10-WANT-TO-STUDY-12-14-HOURSDAY-THE-ONLY-TECHNIQUE-TH.md` — "WANT TO STUDY 12-14 HOURS/DAY? - THE ONLY TECHNIQUE THAT ACTUALLY WORKS! #pomodoro #neetug" (Dr. Aditya Sanjay Gupta)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:05 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:06 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:07 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:07 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:07 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:07 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:07 UTC | Groq API success using key 2 (gsk_...hFdm)
+
+- 2026-08-10 01:07 UTC | Groq API success using key 3 (gsk_...6IYf)
+
+- 2026-08-10 01:07 UTC | !process via Discord — exit 0 — moved 26 files
+
+- 2026-08-10 01:08 UTC | Article captured: `raw/2026-08-10-010835-web.md` (https://youtube.com/shorts/dZWgR3YfMaE?si=t6Ki_FW64jVho3lh)
+
+- 2026-08-10 01:09 UTC | Groq API success using key 1 (gsk_...vQmi)
+
+- 2026-08-10 01:09 UTC | Query via Discord: `how can I improve my pattern recognition skills` — answered
+
+- 2026-08-10 01:32 UTC | YouTube captured: `raw/2026-08-10-Agent-OS-Agent-Teams-Memory-Files-Simple-Setups.md` — "Agent OS: Agent Teams + Memory Files + Simple Setups" (Julian Goldie SEO)
+
+- 2026-08-10 01:32 UTC | YouTube captured: `raw/2026-08-10-Hermes-AI-Just-Learned-to-Read-Books.md` — "Hermes AI Just Learned to Read Books" (Julian Goldie SEO)
+
+- 2026-08-10 01:33 UTC | YouTube captured: `raw/2026-08-10-Vibe-Coders-have-No-Idea-of-Software-Licenses-True.md` — "Vibe Coders have No Idea of Software Licenses. True Engineers Do!" (Ajeet Pratap Singh)
+
+- 2026-08-10 01:33 UTC | YouTube captured: `raw/2026-08-10-Vibe-Coders-have-No-Idea-of-Software-Licenses-True.md` — "Vibe Coders have No Idea of Software Licenses. True Engineers Do!" (Ajeet Pratap Singh)
+
+- 2026-08-10 01:33 UTC | YouTube captured: `raw/2026-08-10-A-Meta-Engineers-Agentic-Engineering-Workflow.md` — "A Meta Engineer's Agentic Engineering Workflow" (Jason Ku)
+
+- 2026-08-10 01:34 UTC | YouTube captured: `raw/2026-08-10-Your-Graph-Engineering-Is-Probably-a-Loop-And-You-.md` — "Your Graph Engineering Is Probably a Loop (And You Don't Even Know It)" (AI with Surya)
+
+- 2026-08-10 01:34 UTC | YouTube captured: `raw/2026-08-10-Building-a-Medical-Report-OCR-App-with-AI-Vibe-Cod.md` — "Building a Medical Report OCR App with AI | Vibe Coding Ep. 3" (Uday Dot Ai)
+
+- 2026-08-10 01:35 UTC | YouTube captured: `raw/2026-08-10-Massive-Agentic-AI-with-TypeScript-Udemy-Course-Re.md` — "Massive Agentic AI with TypeScript Udemy Course Relaunch | LangChain, RAG, Postgres & Deployment" (Sangam Mukherjee)
+
+- 2026-08-10 01:35 UTC | YouTube captured: `raw/2026-08-10-Prime-Agent-The-Self-Improving-AI-Is-Here.md` — "Prime Agent: The Self-Improving AI Is Here" (Julian Goldie SEO)
+
+- 2026-08-10 01:37 UTC | YouTube captured: `raw/2026-08-10-Google-Omni-Makes-Fake-Videos-No-One-Can-Spot.md` — "Google Omni Makes Fake Videos No One Can Spot" (AI Samson)
+
+- 2026-08-10 01:37 UTC | YouTube captured: `raw/2026-08-10-Seedance-25-Is-a-FREAK-50-Surprising-Examples.md` — "Seedance 2.5 Is a FREAK (50+ Surprising Examples)" (AI Samson)
+
+- 2026-08-10 01:39 UTC | Article captured: `raw/2026-08-10-013932-web.md` (https://youtube.com/shorts/-VgWL9149Og?si=cZWPMRLLs7L7wU4x)
+
+- 2026-08-10 01:42 UTC | Article captured: `raw/2026-08-10-014243-web.md` (https://youtube.com/shorts/nDYaPRC86mE?si=i5a3BS1UH4aX9L8Z)
+
+- 2026-08-10 01:43 UTC | Article captured: `raw/2026-08-10-014330-web.md` (https://youtube.com/shorts/7nGtllD8XZo?si=UJVaND-wAD987xPq)
+
+## [2026-08-10] query | Architectural Audit
+- Pages consulted: `agents.md`, `index.md`, `wiki/LLM-Wiki-Karpathy.md`
+- Answer filed back: Yes (`wiki/LLM-Wiki-Audit.md`)
+
+- 2026-08-10 02:35 UTC | YouTube captured: `raw/2026-08-10-Stop-Fighting-Your-Mind-Do-This-Instead-Vedanta-Me.md` — "Stop Fighting Your Mind. Do This Instead (Vedanta Method)" (Atharva Is Living...)
+
+- 2026-08-10 02:36 UTC | YouTube captured: `raw/2026-08-10-How-to-Attract-Anyone-in-School-100-Working-Tricks.md` — "How to Attract Anyone in School (100% Working Tricks)" (KAIZEN PRADIP)

@@ -44,6 +44,7 @@
 | [[wiki/Second-Brain-Architecture]] | How this vault is structured; now extended with Discord/GitHub Actions/Antigravity cloud pipeline | 3 | 2026-08-10 |
 | [[wiki/Discord-Bot-Obsidian-Integration]] | Discord as universal multi-device capture + query interface for the Second Brain | 2 | 2026-08-10 |
 | [[wiki/GitHub-Actions-Automation]] | Free serverless compute layer for automated 6-hour pipeline cron via GitHub public repo | 1 | 2026-08-10 |
+| [[wiki/LLM-Wiki-Audit]] | Architectural audit comparing this Second Brain to Karpathy's original LLM Wiki concept | 0 | 2026-08-10 |
 
 ---
 
